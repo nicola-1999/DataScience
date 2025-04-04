@@ -36,9 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
-  <img src="https://raw.githubusercontent.com/pytorch/vision/main/docs/source/_static/img/torchvision-logo.png" height="40" alt="Torchvision logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="Haskell logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Prolog-logo.png" height="40" alt="Eclipse Prolog logo" />
+  <img src="https://www.google.com/search?sca_esv=58560bd20a15475a&sxsrf=AHTn8zpE6RjcWSCt-RqrVhibn3ED9qGRUg:1743778477065&q=eclipse+prolog&udm=2&fbs=ABzOT_CJHzLz2g9qLwS3rPIwRoY84oX4_Z-Cl9eu6FL5-ogFnsQxdjxawdopnpYxHtW9NBhSfkE4SBWP4ttZNTAwcP93JLLb2fSQbzHeNCwoayLeDyTzjNrL1mo_u4yhJ4A9MxuzxELh9WdqQEPXc3QyWoktp5CFjaHrewhP5UCWoMzJAjzMRg4KD43ZMyQnA50qdYSBEHep&sa=X&ved=2ahUKEwjy28SF0b6MAxWogf0HHU7FEecQtKgLegQIDRAB&biw=1682&bih=887&dpr=1.1#vhid=k6fTe0t8FxIdsM&vssid=mosaic" height="40" alt="Eclipse Prolog logo" />
 
 </div>
 
