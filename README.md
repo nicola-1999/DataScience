@@ -34,6 +34,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" alt="julia logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
+  <img src="https://raw.githubusercontent.com/pytorch/vision/main/docs/source/_static/img/torchvision-logo.png" height="40" alt="Torchvision logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="Haskell logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Prolog-logo.png" height="40" alt="Eclipse Prolog logo" />
+
 </div>
 
 ###
