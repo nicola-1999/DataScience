@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently working as a Junior AI engineer <br>🎯 Goals: I want to explore the many fields behind so-called AI because, as you may know, it involves more than just Machine Learning techniques, such as those used for numerical data and time series analysis. It also includes Natural Language Processing algorithms like ChatGPT and various types of code useful for analyzing images and videos. In this section, we will get hands-on experience with some of these tasks..</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently work as a Junior AI engineer <br>🎯 Goals: I want to explore the many fields behind so-called AI because, as you may know, it involves more than just Machine Learning techniques, such as those used for numerical data and time series analysis. It also includes Natural Language Processing algorithms like ChatGPT and various types of code useful for analyzing images and videos. In this section, we will get hands-on experience with some of these tasks..</p>
 
 ###
 
