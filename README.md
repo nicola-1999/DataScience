@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 Diving into Data Science & A.I.? Here you’ll find hands-on notebooks spanning Computer Vision, NLP, ML algorithms, and Statistical Analysis. Take what you need and happy coding! </h1>
+<h1 align="left">Hey 👋 Diving into Data Science & A.I.? Here you’ll find some interesting code! </h1>
 
 ###
 
