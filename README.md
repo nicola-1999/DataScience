@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 If you are interested in A.I maybe you will find some interesting code here</h1>
+<h1 align="left">Hey 👋 Diving into Data Science & A.I.? Here you’ll find hands-on notebooks spanning Computer Vision, NLP, ML algorithms, and Statistical Analysis. Take what you need and happy coding! </h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently work as a Junior AI engineer <br>🎯 Goals: I want to explore the many fields behind so-called AI because, as you may know, it involves more than just Machine Learning techniques, such as those used for numerical data and time series analysis. It also includes Natural Language Processing algorithms like ChatGPT and various types of code useful for analyzing images and videos. In this section, we will get hands-on experience with some of these tasks..</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently work as a Junior AI engineer <br>🎯 Goals: Exploring AI beyond the hype. I aim to cover every angle: from classic statistical methods to cutting-edge Natural Language Understanding and Computer Vision. </p>
 
 ###
 
